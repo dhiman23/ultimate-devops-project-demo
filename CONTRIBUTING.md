@@ -4,7 +4,7 @@ Welcome to OpenTelemetry Demo Webstore repository!
 
 Before you start - see OpenTelemetry
  [Contributor Guide](https://github.com/open-telemetry/community/blob/main/guides/contributor/README.md)
- for details on code attribution.
+ for details on code attribution.`
 
 ## Join a SIG Call
 
