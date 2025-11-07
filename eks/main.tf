@@ -1,5 +1,5 @@
 resource "aws_dynamodb_table" "my_table" {
-  name         = "my-lock-table"
+  name         = "my-lock-dbtable"
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "LockID"
 
